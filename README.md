@@ -1,8 +1,10 @@
 #Starter Web Project
 
-Great text fo customers
+Great text for customers
 
 ## Introduction
+
+This is an awesome introduction
 
 ## Purpose
 
