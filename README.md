@@ -8,6 +8,10 @@ This is an awesome introduction
 
 ## Purpose
 
+The purpose driven life is awesome!
+
 ## Deployment
+
+We are deploying troops
 
 ## How to Contribute
