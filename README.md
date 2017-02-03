@@ -16,6 +16,8 @@ We are deploying troops
 
 ## How to Contribute
 
+intelligently please!
+
 ### Copyright
 
 2017 copyright
