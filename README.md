@@ -15,3 +15,7 @@ The purpose driven life is awesome!
 We are deploying troops
 
 ## How to Contribute
+
+### Copyright
+
+2017 copyright
