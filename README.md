@@ -1,6 +1,6 @@
 #Starter Web Project
 
-Great text for customers
+Great text for customers. Intersting stuff!
 
 ## Introduction
 
